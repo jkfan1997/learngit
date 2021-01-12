@@ -4,4 +4,6 @@ git change
 git change 2
 git change 3
 dev change
-·ÖÖ§¹ÜÀí²ßÂÔ
+ï¿½ï¿½Ö§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½git 
+stash
+é˜¿é“å¤«
